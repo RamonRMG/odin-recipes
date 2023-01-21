@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    
+}
+
+.container{
+    display: flex;
+    border: solid ;
+    margin: 30px;
+    border: solid 2px rgb(78, 75, 75);
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    text-align: center;
+    border: 2px solid rgb(78, 75, 75);
+    margin: 30px;
+    width: 20%;
+    padding: 10px;
+}
+
+img{
+    width: 800px;
+    height: 800px;
+    border: solid;
+    margin: 30px 300px;
+}
+
+.main-title{
+    color: rgb(78, 75, 75);
+}
+
+.main-page-links, ul{
+   padding: 10px;
+   border: solid 2px rgb(78, 75, 75);
+}
+
+li{
+    
+    list-style: none;
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+a{
+    color: rgb(78, 75, 75);
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+}
